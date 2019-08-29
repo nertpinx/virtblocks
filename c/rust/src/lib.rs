@@ -6,4 +6,5 @@
 // See the LICENSE file in the top level directory for details.
 
 mod devices;
+mod ultra;
 mod util;

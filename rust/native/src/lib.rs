@@ -13,4 +13,5 @@
 
 pub mod devices;
 pub mod playground;
+pub mod ultra;
 pub mod util;
